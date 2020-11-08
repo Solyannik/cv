@@ -33,7 +33,7 @@
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 40px;
   box-sizing: border-box; }
 .column,
 .columns {
@@ -117,7 +117,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
-are based on 10px sizing. So basically 1.5rem = 15px :) */
+are based on 20px sizing. So basically 1.5rem = 25px :) */
 html {
   font-size: 62.5%; }
 body {
