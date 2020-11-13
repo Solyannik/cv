@@ -1,0 +1,23 @@
+body {
+  font-size: 18px;
+  color: #404040;
+}
+
+.title {
+  font-size: 1.1em;
+  margin-left: 50px;
+  margin-bottom: 1.1em;
+  color: #030303
+}
+
+.foto {
+  font-size: .8em;
+  margin-left: 50px;
+  margin-bottom: 1.1em;
+}
+
+.link {
+  font-size: .8em;
+  margin-bottom: 1.1em;
+  color: #c70815e1;
+}
